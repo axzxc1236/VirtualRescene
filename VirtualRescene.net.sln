@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualRescene.net", "VirtualRescene.net\VirtualRescene.net.csproj", "{1F5E6FD9-8DF2-45EE-90B6-6110479DC3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F5E6FD9-8DF2-45EE-90B6-6110479DC3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5E6FD9-8DF2-45EE-90B6-6110479DC3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5E6FD9-8DF2-45EE-90B6-6110479DC3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5E6FD9-8DF2-45EE-90B6-6110479DC3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56A9BB69-BE23-4ED1-A080-34520C29BC71}
+	EndGlobalSection
+EndGlobal
